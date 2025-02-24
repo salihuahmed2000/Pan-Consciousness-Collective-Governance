@@ -13,3 +13,5 @@ T
 $contracts/reality-manifestation.clar,6/1/615d9d553f2c991b6e87ef528071cf7199124dc0
 S
 #tests/reality-manifestation.test.ts,9/4/94e64558c05fde8e499a86a64f9201cdd37fdcf1
+Y
+)contracts/individuality-preservation.clar,e/b/eb0a31f4df62428a9e9513939b0a79c6cd6dc685
