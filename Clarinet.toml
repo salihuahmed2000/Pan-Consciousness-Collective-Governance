@@ -5,6 +5,11 @@ authors = []
 telemetry = true
 cache_dir = './.cache'
 requirements = []
+[contracts.cognitive-consensus]
+path = 'contracts/cognitive-consensus.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.thought-quantization]
 path = 'contracts/thought-quantization.clar'
 clarity_version = 2
