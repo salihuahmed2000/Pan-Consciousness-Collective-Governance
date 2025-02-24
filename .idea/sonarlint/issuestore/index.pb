@@ -11,3 +11,5 @@ Q
 !tests/cognitive-consensus.test.ts,c/3/c37c789c6631dfade77f148fde240a929a544f4b
 T
 $contracts/reality-manifestation.clar,6/1/615d9d553f2c991b6e87ef528071cf7199124dc0
+S
+#tests/reality-manifestation.test.ts,9/4/94e64558c05fde8e499a86a64f9201cdd37fdcf1

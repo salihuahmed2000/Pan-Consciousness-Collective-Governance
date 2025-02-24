@@ -55,6 +55,11 @@ plan:
             path: contracts/cognitive-consensus.clar
             clarity-version: 2
         - emulated-contract-publish:
+            contract-name: reality-manifestation
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/reality-manifestation.clar
+            clarity-version: 2
+        - emulated-contract-publish:
             contract-name: thought-quantization
             emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
             path: contracts/thought-quantization.clar
